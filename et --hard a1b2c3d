@@ -1,0 +1,25 @@
+[33mfdd8dee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m2f01efb[m HEAD@{1}: reset: moving to HEAD~1
+[33mca8f1f0[m HEAD@{2}: commit: test: Test affichage
+[33m2f01efb[m HEAD@{3}: reset: moving to HEAD~1
+[33me409984[m HEAD@{4}: reset: moving to HEAD~
+[33mf085742[m HEAD@{5}: reset: moving to HEAD~1
+[33m5f44d13[m HEAD@{6}: commit: test: Test affichage
+[33mf085742[m HEAD@{7}: reset: moving to HEAD~1
+[33m87ffce9[m HEAD@{8}: commit: test: Test affichage
+[33mf085742[m HEAD@{9}: commit (amend): feat: Ajout du copyright dans le pied de page
+[33mf2303c4[m HEAD@{10}: commit: modif
+[33me409984[m HEAD@{11}: commit: docs: ajouter les réponses sur l'analyse de l'historique
+[33m2f01efb[m HEAD@{12}: merge feature/contact: Merge made by the 'ort' strategy.
+[33mfdd8dee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{13}: checkout: moving from feature/contact to main
+[33m6071043[m HEAD@{14}: commit: feat(contact): ajouter les champs sujet, message et le bouton d'envoi
+[33m1798e58[m HEAD@{15}: commit: feat(contact): ajouter la structure de la page contact
+[33mfdd8dee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{16}: checkout: moving from main to feature/contact
+[33mfdd8dee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{17}: commit: docs: modification du README
+[33m1437d83[m HEAD@{18}: merge feature/services: Merge made by the 'ort' strategy.
+[33mf6a6ef8[m HEAD@{19}: checkout: moving from feature/services to main
+[33m19f357e[m HEAD@{20}: commit: feat(services): ajouter la page des services
+[33mf6a6ef8[m HEAD@{21}: checkout: moving from main to feature/services
+[33mf6a6ef8[m HEAD@{22}: commit: docs: ajouter le README du projet
+[33mc9fd8c8[m HEAD@{23}: commit: style: ajouter la feuille de style et la lier a l'accueil
+[33maf5be84[m HEAD@{24}: commit (initial): feat: ajouter la page d'acceuil
